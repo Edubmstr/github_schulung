@@ -16,7 +16,7 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #f82929;
+  background-color: #29f833;
   cursor: pointer;
   transition: border-color 0.25s;
 }
@@ -34,7 +34,7 @@ input[type="text"] {
   border-radius: 10px;
   font-size: 16px;
   color: #5c9857;
-  background-color: #042b97;
+  background-color: #249704;
   margin-right: 2em;
 }
 
