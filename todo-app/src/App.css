@@ -16,7 +16,7 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: #f82929;
   cursor: pointer;
   transition: border-color 0.25s;
 }
@@ -30,11 +30,11 @@ button {
 input[type="text"] {
   width: 400px;
   height: 30px;
-  padding: 10px;
+  padding: 16px;
   border-radius: 10px;
   font-size: 16px;
-  color: #333;
-  background-color: #f0f0f0;
+  color: #5c9857;
+  background-color: #042b97;
   margin-right: 2em;
 }
 
@@ -50,7 +50,7 @@ input[type="text"] {
   margin-top: 2em;
   max-width: 100%;
   padding: 10px;
-  border: 1px solid #ddd;
+  border: 1px solid #b80b0b;
   border-radius: 5px;
   word-wrap: break-word;
   overflow: auto;
