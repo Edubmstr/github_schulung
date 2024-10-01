@@ -80,9 +80,9 @@ function App() {
           </ul>
         </div>
 
-        {/*<div className="catFactContainer">
-        Aufgabe 2
-        </div>*/}
+        {<div className="catFactContainer">
+          {catFact}
+        </div>}
       </div>
     </>
   );
